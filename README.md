@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Application Firewall**
 
-- 🌱 I’m currently learning **Web Developer**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Development Related**
 
