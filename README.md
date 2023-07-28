@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Web Application Firewall**
 
-- 🌱 I’m currently learning **Ethical Hacking & Cyber Security**
+- 🌱 I’m currently learning **Web Developer**
 
-- 💬 Ask me about **Cyber Related**
+- 💬 Ask me about **Development Related**
 
 - 📫 How to reach me **dhirajkumargupta2000@gmail.com**
 
